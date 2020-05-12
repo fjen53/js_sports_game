@@ -3,13 +3,17 @@
 }
 .left {
     float: left;
+    color: crimson
 }
 .right {
     float: right;
+    color: crimson;
 }
 .clear {
     clear: both;
+    border: darkgreen;
 }
 #reset-container, h1 {
     text-align: center;
+    color: blue;
 }
