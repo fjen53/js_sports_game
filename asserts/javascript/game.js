@@ -33,5 +33,6 @@ resetbutton.addEventListener("click", function () {
     shottwo.innerHTML = 0;
     goalone.innerHTML = 0;
     goaltwo.innerHTML = 0;
+    resetnumber.innerHTML = 0;
 
 })
